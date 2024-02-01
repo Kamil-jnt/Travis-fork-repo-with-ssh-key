@@ -1,1 +1,1 @@
-Add some text to edit.
+Text to edit.
