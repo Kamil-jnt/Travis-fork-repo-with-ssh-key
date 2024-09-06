@@ -1,4 +1,4 @@
-language: rubys
+language: ruby
 os: linux
 rvm: 2.6.3
 jobs:
